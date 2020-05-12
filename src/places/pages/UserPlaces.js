@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
     },
     {
         id: 'p2',
-        title: 'Empire State Building',
+        title: 'Emp. State Building',
         description: 'One of the most famous skyscrapers in the world!',
         imageURL: 'https://media.cntraveler.com/photos/5924a32f88fb614c3c25fdb6/4:3/w_480,c_limit/GettyImages-551773825.jpg',
         address: '20 W 34th St, New York, NY 10001, United States',
